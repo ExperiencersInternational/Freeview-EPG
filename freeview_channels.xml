@@ -100,7 +100,6 @@
     <channel src="sky" lang="en" xmltv_id="ITV4.uk" site_id="6272">ITV 4</channel>
     <channel src="sky" lang="en" xmltv_id="ITV4Plus1.uk" site_id="6274">ITV 4 +1</channel>
     <channel src="sky" lang="en" xmltv_id="ITVBe.uk" site_id="6508">ITV Be</channel>
-    <channel src="sky" lang="en" xmltv_id="IdealWorldTV.uk" site_id="1244">Ideal World</channel>
     <channel src="sky" lang="en" xmltv_id="JewelleryMaker.uk" site_id="3354">Jewellery Maker</channel>
     <channel src="sky" lang="en" xmltv_id="Kerrang.uk" site_id="1853">Kerrang!</channel>
     <channel src="sky" lang="en" xmltv_id="KissTVUK.uk" site_id="1858">Kiss TV</channel>
@@ -161,7 +160,7 @@
     <channel src="sky" lang="en" xmltv_id="XpandedTV.uk" site_id="4191">Xpanded TV</channel>
     <channel src="sky" lang="en" xmltv_id="Yesterday.uk" site_id="2305">Yesterday</channel>
     <channel src="sky" lang="en" xmltv_id="YesterdayPlus1.uk" site_id="2615">Yesterday +1</channel>
-    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio1.uk" site_id="bbc_radio_one">BBC Radio 1</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCRadio1.uk" site_id="2111">BBC Radio 1</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio1D.uk" site_id="bbc_radio_one_dance">BBC Radio 1 Dance</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio1R.uk" site_id="bbc_radio_one_relax">BBC Radio 1 Relax</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio1X.uk" site_id="bbc_1xtra">BBC Radio 1Xtra</channel>
