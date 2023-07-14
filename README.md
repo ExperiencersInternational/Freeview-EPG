@@ -2,7 +2,7 @@
 
 |[![Make EPG](https://github.com/dp247/Freeview-EPG/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/dp247/Freeview-EPG/actions/workflows/actions.yml) Upstream|[![Build EPG](https://github.com/ExperiencersInternational/Freeview-EPG/actions/workflows/actions.yml/badge.svg)](https://github.com/ExperiencersInternational/Freeview-EPG/actions/workflows/actions.yml) This repo|
 
-Freeview-EPG is a project designed to provide a reliable source of XMLTV data for UK free-to-air channels. The channel list was designed to match [this](https://github.com/ExperiencersInternational/tvsetup) project as closely as possible, and is a cutdown fork from the [iptv/epg](https://github.com/iptv-org/epg) project. 
+Freeview-EPG is a project designed to provide a reliable source of XMLTV data for UK free-to-air channels. The channel list was designed to match [this](https://github.com/ExperiencersInternational/tvsetup) project as closely as possible, and is a cutdown fork from the [iptv/epg](https://github.com/iptv-org/epg) project. Made by @dp247 and improved upon (albeit quite terribly) by @ExperiencersInternational
 
 ![image](https://user-images.githubusercontent.com/9065463/232475526-1ea36b57-df01-4a95-afe2-dfbd3116052f.png)
 
